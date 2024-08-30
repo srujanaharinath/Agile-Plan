@@ -2,9 +2,9 @@
 name: File Upload Folder Accepts Non-PDF Formats
 about: The website's file upload allows formats other than PDF (e.g., .docx, .jpg,
   .png), but it should only accept .pdf files.
-title: ''
-labels: ''
-assignees: ''
+title: File Type Restriction
+labels: documentation
+assignees: srujanaharinath
 
 ---
 
