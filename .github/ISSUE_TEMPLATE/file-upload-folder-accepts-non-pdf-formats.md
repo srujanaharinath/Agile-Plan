@@ -15,4 +15,3 @@ Acceptance Criteria:
 1. Client-Side Restriction: File selection must be limited to `.pdf` files only, with an error message for other formats: "Invalid file format. Only PDF files are allowed."
 2. Server-Side Validation: The server must reject any non-PDF files and provide an error message: "Upload failed. Only PDF files are allowed."
 3. User Feedback: Confirm successful uploads with: "File uploaded successfully."
-
